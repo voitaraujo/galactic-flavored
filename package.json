@@ -1,0 +1,31 @@
+{
+  "name": "galactic-flavored",
+  "displayName": "Galactic Flavored",
+  "description": "Color theme based on a cool color pallet I saw on Twitter",
+  "version": "1.0.0",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/voitaraujo/galactic-flavored"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "scuffed-icon.png",
+  "galleryBanner": {
+    "color": "#171717",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Galactic Flavored",
+        "uiTheme": "vs-dark",
+        "path": "./themes/galactic-flavored-color-theme.json"
+      }
+    ]
+  }
+}
