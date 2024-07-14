@@ -4,6 +4,7 @@
   "description": "Color theme based on a cool color pallet I saw on Twitter",
   "version": "1.0.0",
   "license": "MIT",
+  "publisher": "voitaraujo",
   "engines": {
     "vscode": "^1.89.0"
   },
