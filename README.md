@@ -1,6 +1,6 @@
 # Galactic Flavored 🍦
 
-A theme inspired by [this](https://x.com/Mike_Andreuzza/status/1743749245448925235) amazing color pallet and [Vesper](https://github.com/raunofreiberg/vesper) theme.
+A theme for VS Code inspired by [this](https://x.com/Mike_Andreuzza/status/1743749245448925235) amazing color pallet and the [Vesper](https://github.com/raunofreiberg/vesper) theme.
 
 ## Examples
 
